@@ -1,5 +1,3 @@
-!pip install sentencepiece
-
 from transformers import pipeline
 import streamlit as st
 
